@@ -1,0 +1,17 @@
+{
+	"editor.formatOnSave": true,
+	"editor.indentSize": "tabSize",
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.rulers": [
+		128
+	],
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "always"
+	},
+	"eslint.validate": [
+		"typescript",
+		"typescriptreact"
+	],
+}

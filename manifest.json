@@ -1,0 +1,13 @@
+{
+	"manifest_version": 3,
+	"name": "Jarvi",
+	"description": "Just A Rather Very Intelligent System",
+	"version": "1.0",
+	"action": {
+		"default_popup": "action-popup.html"
+	},
+	"background": {
+		"type": "module",
+		"service_worker": "service-worker.js"
+	}
+}
